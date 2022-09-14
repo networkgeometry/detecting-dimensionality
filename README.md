@@ -77,7 +77,8 @@ This function and returns the optimal dimension for the given network, the value
 
 ----------------------------------------------------
 
-Publication
+# Publication
+
 Detecting the ultra low dimensionality of real networks
 Pedro Almagro, Marian Boguna, M. Angeles Serrano
 arXiv:2110.14507,  	
