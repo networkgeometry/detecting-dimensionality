@@ -1,0 +1,15 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pedro
+    given-names: Almagro
+    orcid: https://orcid.org/0000-0001-7942-2983
+  - family-names: Marián	
+    given-names: Boguñá
+    orcid: https://orcid.org/0000-0001-7833-3487
+  - family-names: M. Ángeles
+    given-names: Serrano
+    orcid: https://orcid.org/0000-0001-8779-5931
+title: networkgeometry/detecting-dimensionality: First release
+version: v1.0.0
+date-released: 2022-09-14
